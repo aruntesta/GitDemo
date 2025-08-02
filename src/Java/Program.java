@@ -9,7 +9,7 @@ public class Program {
 			System.out.println(j+"x"+i+"="+(j*i));
 
 		}
-		System.out.println("New line for git");
+		System.out.println("New line for git 1");
 	}
 
 }
